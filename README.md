@@ -263,9 +263,3 @@ It demonstrates strong skills in:
 And is designed to grow into a production‑ready system.
 
 ---
-
-If you'd like, I can also:
-✔ Generate the schema diagram
-✔ Create API route maps
-✔ Build folder structure for the upcoming backend/frontend
-✔ Write a compressed or extended README version
