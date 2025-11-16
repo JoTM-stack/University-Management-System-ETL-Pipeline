@@ -184,39 +184,55 @@ git clone https://github.com/JoTM-stack/University-Management-System-ETL-Pipelin
 ### 2. Run the Server
 
 ```
+![Alt text](RunServer.png)
 ```
 
 ### 3. Open MySql Workbench
 
 ```
+![Alt text](bench.png)
 ```
 ### 4. Set up a connection
 
 ```
+![Alt text](SetupConnection.png)
 ```
 ### 5. Test connection
 
 ```
+![Alt text](TestConnection.png)
 ```
 ### 6. Open connection
 
 ```
+![Alt text](Select&OpenConnection.png)
 ```
 ### 7. Load SQL Script
 
 ```
+![Alt text](OpenSQLScript.png)
 ```
 ### 8. Loaded SQL Script
 
 ```
+![Alt text](CreateDB&Tables.png)
 ```
-### 9. Output Logs
+
+### 8. Run SQL Script
 
 ```
+![Alt text](RunSqlScript.png)
 ```
-### 10. Output Logs
+
+### 9. Execution Logs
 
 ```
+![Alt text](ExecutionLogs.png)
+```
+### 10. Output
+
+```
+![Alt text](ShowTables.png)
 ```
 
 ### 12. Run the Pipeline
@@ -228,7 +244,7 @@ python MainSystem.py
 ### 12. Pipeline Output
 
 ```
-python MainSystem.py
+![Alt text](ETL_Output.png)
 ```
 
 ---
