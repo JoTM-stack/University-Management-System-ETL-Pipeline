@@ -181,18 +181,51 @@ This project serves as:
 git clone https://github.com/JoTM-stack/University-Management-System-ETL-Pipeline.git
 ```
 
-### 2. Update MySQL Credentials in `MainSystem.py`
+### 2. Run the Server
 
 ```
-connection = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    database="university_system"
-    port=3306
-)
 ```
 
-### 3. Run the Pipeline
+### 3. Open MySql Workbench
+
+```
+```
+### 4. Set up a connection
+
+```
+```
+### 5. Test connection
+
+```
+```
+### 6. Open connection
+
+```
+```
+### 7. Load SQL Script
+
+```
+```
+### 8. Loaded SQL Script
+
+```
+```
+### 9. Output Logs
+
+```
+```
+### 10. Output Logs
+
+```
+```
+
+### 12. Run the Pipeline
+
+```
+python MainSystem.py
+```
+
+### 12. Pipeline Output
 
 ```
 python MainSystem.py
