@@ -180,11 +180,10 @@ This project serves as:
 ```
 git clone https://github.com/JoTM-stack/University-Management-System-ETL-Pipeline.git
 ```
-
-### 2. Run the Server
-
 ```
-![Alt text](RunServer.png)
+### 2. Run the Server
+```
+![Alt text](RunServer.png) 
 ```
 
 ### 3. Open MySql Workbench
