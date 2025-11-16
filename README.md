@@ -95,10 +95,9 @@ Database for structured storage.
 ## 📂 Project Structure
 
 ```
-ETL-Sales-Pipeline/
-│── tStyle.py                # Main ETL script
-│── /sql                     # SQL schema files
-│── /data                    # Any external datasets
+University Management System ETL-Pipeline/
+│── MainSystem.py                # Main ETL script
+│── Create_FullDB.sql                    # Any external datasets
 │── README.md                # Project documentation
 ```
 
@@ -109,11 +108,28 @@ ETL-Sales-Pipeline/
 Upon successful execution, you will see logs such as:
 
 ```
+Connected to university_system
+Base lookup data inserted.
+Levels inserted.
+Qualifications inserted.
+Departments & 36 Courses inserted successfully.
+168 modules inserted.
+Staff, courses, and modules inserted safely.
 5000 Students inserted.
 20000 student enrollments inserted.
 20000 marks inserted.
+Inserting student enrollments...
+5000 student enrollments inserted.
+Shuttle points & buses inserted.
+Bus allocations inserted.
+Applicants inserted.
+Lecturers: 2
+Modules: 168
+2 lecturer-module assignments inserted.
+Inserting student residential data...
 5000 student residential records inserted.
-All data generation completed successfully.
+
+All data generation completed successfully
 ```
 
 ---
