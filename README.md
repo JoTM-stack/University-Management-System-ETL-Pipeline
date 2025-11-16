@@ -174,28 +174,28 @@ This project serves as:
 ---
 
 ## 📥 Installation & Usage
-
+### **Installation A**
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/ETL-University-System.git
+git clone https://github.com/JoTM-stack/University-Management-System-ETL-Pipeline.git
 ```
 
-### 2. Update MySQL Credentials in `tStyle.py`
+### 2. Update MySQL Credentials in `MainSystem.py`
 
 ```
 connection = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="your_password",
     database="university_system"
+    port=3306
 )
 ```
 
 ### 3. Run the Pipeline
 
 ```
-python tStyle.py
+python MainSystem.py
 ```
 
 ---
