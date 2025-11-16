@@ -97,8 +97,8 @@ Database for structured storage.
 ```
 University Management System ETL-Pipeline/
 │── MainSystem.py                # Main ETL script
-│── Create_FullDB.sql                    # Any external datasets
-│── README.md                # Project documentation
+│── Create_FullDB.sql            # Any external datasets
+│── README.md                    # Project documentation
 ```
 
 ---
