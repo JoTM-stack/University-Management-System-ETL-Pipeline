@@ -10,9 +10,9 @@ The system was built to:
 
 ---
 
-## 🚀 Features
+##  Features
 
-### ✅ **1. Lookup & Structural Data Auto‑Generation**
+###  **1. Lookup & Structural Data Auto‑Generation**
 
 The pipeline automatically inserts essential academic structure data such as:
 
@@ -22,7 +22,7 @@ The pipeline automatically inserts essential academic structure data such as:
 * Courses
 * Modules
 
-### ✅ **2. Staff Data & Lecturer Assignments**
+###  **2. Staff Data & Lecturer Assignments**
 
 Randomized staff generation including:
 
@@ -34,7 +34,7 @@ Randomized staff generation including:
 
 The script then assigns lecturers to modules.
 
-### ✅ **3. Student Data (5,000 records)**
+###  **3. Student Data (5,000 records)**
 
 Generated student fields:
 
@@ -45,18 +45,18 @@ Generated student fields:
 * Contact
 * Program level, course, department
 
-### ✅ **4. Enrollments & Marks (20,000 each)**
+###  **4. Enrollments & Marks (20,000 each)**
 
 The pipeline assigns each student to multiple modules and generates marks.
 
-### ✅ **5. Residential Data (5,000 records)**
+###  **5. Residential Data (5,000 records)**
 
 Students are assigned to:
 
 * Residence names
 * Room numbers
 
-### ✅ **6. Shuttle System**
+###  **6. Shuttle System**
 
 Data added for:
 
@@ -64,7 +64,7 @@ Data added for:
 * Bus info
 * Bus allocations
 
-### ✅ **7. Applicants Table**
+###  **7. Applicants Table**
 
 Simulated applicants with:
 
@@ -74,7 +74,7 @@ Simulated applicants with:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### **Python**
 
@@ -92,7 +92,7 @@ Database for structured storage.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 University Management System ETL-Pipeline/
@@ -103,7 +103,7 @@ University Management System ETL-Pipeline/
 
 ---
 
-## 📊 Example Output Summary
+##  Example Output Summary
 
 Upon successful execution, you will see logs such as:
 
@@ -134,36 +134,36 @@ All data generation completed successfully
 
 ---
 
-## 🔮 Future Plans (Full‑Stack Expansion)
+##  Future Plans (Full‑Stack Expansion)
 
 This project is being expanded into a **full university management platform**. Planned additions:
 
-### 🖥️ **Backend (Python / FastAPI / Flask)**
+###  **Backend (Python / FastAPI / Flask)**
 
 * REST API for retrieving and updating university data
 * Authentication (JWT)
 * Role-based access (Admin, Lecturer, Student)
 
-### 🌐 **Frontend (React / Next.js)**
+###  **Frontend (React / Next.js)**
 
 * Student portal (timetable, modules, results)
 * Admin dashboard (course & staff management)
 * Lecturer portal (upload marks, attendance)
 
-### 📡 **Data Engineering Enhancements**
+###  **Data Engineering Enhancements**
 
 * Airflow DAG for automated ETL scheduling
 * Data quality checks
 * Warehouse layer (Star schema)
 
-### 🤖 **AI Integration (Future)**
+###  **AI Integration (Future)**
 
 * AI assistant for students
 * Predictive analytics on student performance
 
 ---
 
-## 💡 Purpose
+##  Purpose
 
 This project serves as:
 
@@ -173,7 +173,7 @@ This project serves as:
 
 ---
 
-## 📥 Installation & Usage
+##  Installation & Usage
 ### **Installation**
 ```
 1. Clone the repository
@@ -248,7 +248,7 @@ python MainSystem.py
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 
 This project started as a data‑generation ETL system but is evolving into a full **University Information System** with backend, frontend, and AI features.
 
